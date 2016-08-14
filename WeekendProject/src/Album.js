@@ -5,7 +5,7 @@ class Album extends Component {
   render () {
     return (
     <div>
-      <img src='/weekendProject/images11.jpg' alt='funny guy'/>
+      <img src='/images11.jpg' alt='funny guy'/>
       <p>Album One</p>
     </div>
     )
